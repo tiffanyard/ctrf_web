@@ -6,4 +6,4 @@ award:
  emoji: 😀
 image: pwncollege/challenge-simple
 modules:
- - id: module-name-1
+ - id: web
