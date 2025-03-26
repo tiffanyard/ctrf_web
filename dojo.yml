@@ -2,7 +2,6 @@ id: tiffany-web-exploit
 name: Tiffany's Web Exploit
 description: Repo Description
 type: course
-password: pw
 award:
  emoji: 😀
 image: pwncollege/challenge-simple
