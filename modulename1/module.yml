@@ -1,0 +1,4 @@
+name: modulename1
+challenges:
+  - id: webexploit
+    name: webExploit
