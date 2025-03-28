@@ -2,7 +2,7 @@ id: testWebctrf
 name: Test Web CTRF Dojo Name
 type: course
 award:
- emoji: 😀
+ emoji: 🤩
 image: pwncollege/challenge-simple
 modules:
  - id: modulename1
